@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Olá 👋 Eu sou James Santos</h1>
 
 <p align="center">
@@ -86,4 +85,3 @@
 <p align="center">
   🚀 “Sempre aprendendo e construindo novos projetos.”
 </p>
-```
