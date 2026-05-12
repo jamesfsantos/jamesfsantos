@@ -44,11 +44,9 @@
 
 ## 🚀 Projetos em destaque
 
-- 🛒 Sistema E-commerce em Vue + .NET
-- 🎰 JamalBet
+- 🛒 Sistema E-commerce Bytech em Vue + Integração com API
 - 💻 API-Bytech
-- 🌐 Site institucional em Vue.js
-
+- 
 ---
 
 ## 📚 Atualmente estudando
