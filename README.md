@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudante de Desenvolvimento de Software <br>
-  🚀 Focado em Vue.js, C#, Linux e Redes <br>
+  🚀 Focado em Vue.js, C#, Linux <br>
   📍 São Paulo - Brasil
 </p>
 
