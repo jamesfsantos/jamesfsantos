@@ -1,7 +1,7 @@
 <h1 align="center">Portfólio > James Santos.</h1>
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Software <br>
+  💻 Estudante de Ciência da Computação <br>
   🚀 Focado em Vue.js, C#, Linux <br>
   📍 São Paulo - Brasil
 </p>
