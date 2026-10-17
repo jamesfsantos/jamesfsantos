@@ -49,6 +49,7 @@
 - Redes
 - Banco de Dados
 - Arquitetura de Software
+- Python
 
 ---
 
