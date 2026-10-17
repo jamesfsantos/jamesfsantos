@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jamesfsantos&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamesfsantos&layout=compact&theme=tokyonight">
-</p>
-
----
-
 ## 🔥 Sequência de contribuições
 
 <p align="center">
